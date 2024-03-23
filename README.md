@@ -30,8 +30,9 @@ Developed by:
 RegisterNumber:  
 */
 ```
+```
 ## Output:
-[output](![alt text](<Screenshot 2024-03-23 102608.png>))
+![alt text](<Screenshot 2024-03-23 102608.png>)
 
 
 
