@@ -1,4 +1,7 @@
 # Find the square root of a number
+NAME:RAMYA.P
+REG NO:212223240137
+DEPARTMENT:AIML
 
 ## AIM:
 To write a program to find the square root of a number.
